@@ -10657,7 +10657,7 @@ celny
 	[b]III[/b]
 	[lang id=1045]celn||y[/lang]
 	[m1]мытны;[/m]
-	[m2][*][ex][lang id=1045]\~е opłaty manipulacyjne[/lang] — мытныя плацёжныя аперацыі;[/ex][/*][/m]
+	[m2][*][ex][lang id=1045]\~е opłaty manipulacyjne[/lang] — мытныя <del>плацёжныя</del> <ins>плацежныя</ins> аперацыі;[/ex][/*][/m]
 	[m2][*][ex][lang id=1045]kontrola celny a[/lang] — мытны кантроль;[/ex][/*][/m]
 	[m2][*][ex][lang id=1045]podatek celny y[/lang] — мытны падатак;[/ex][/*][/m]
 	[m2][*][ex][lang id=1045]urząd \~у[/lang] — мытня[/ex][/trn][/*][/m]
